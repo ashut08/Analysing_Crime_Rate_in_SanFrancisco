@@ -9,6 +9,6 @@
 
 In this work, we will visualize the crime rates in San Francisco using Choropleth map as shown below.
 
-![Image not found](Readme_IMage.png)
+![Image not found](Readme_Image.png)
 
 ### Thanks for Reading! 
